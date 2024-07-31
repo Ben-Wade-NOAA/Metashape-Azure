@@ -1,1 +1,4 @@
 .idea/
+*.amlignore
+*.amlignore.amltmp
+*.amltmp
